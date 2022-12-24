@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/perfume/static/css/main.cf10cbe7.css",
+    "main.js": "/perfume/static/js/main.feca5934.js",
+    "static/media/image-product-desktop.jpg": "/perfume/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "/perfume/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "/perfume/index.html",
+    "static/media/icon-cart.svg": "/perfume/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.cf10cbe7.css.map": "/perfume/static/css/main.cf10cbe7.css.map",
+    "main.feca5934.js.map": "/perfume/static/js/main.feca5934.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf10cbe7.css",
+    "static/js/main.feca5934.js"
+  ]
+}
